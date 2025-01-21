@@ -14,7 +14,7 @@
 </p>
 
 ### About Me
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Web, Mobile and Blockchain developer  <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Web, Mobile developer  <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
 <p dir="auto">Experienced Full Stack developer with a strong background in designing
 and implementing end-to-end web applications.<br /> Skilled in developing responsive and user-friendly interfaces, optimizing
 application performance, and integrating APIs.<br /> With 10+ years of experience, I have successfully delivered projects across
